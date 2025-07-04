@@ -23,6 +23,4 @@ public abstract class Product {
         this.quantity = value;
     }
 
-    public abstract boolean isExpired();
-    public abstract boolean isShippable();
 }
